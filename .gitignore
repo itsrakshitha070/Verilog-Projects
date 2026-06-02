@@ -1,0 +1,11 @@
+# Verilog build outputs
+counter.out
+*.out
+a.out
+
+# Waveforms
+*.vcd
+
+# OS junk
+.DS_Store
+Thumbs.db
